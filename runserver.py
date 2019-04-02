@@ -1,0 +1,6 @@
+from example_apps.quickstart_app import create_app
+
+app = create_app()
+
+app.run()
+
